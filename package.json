@@ -1,0 +1,6 @@
+{
+  "name": "robocov-relay-app",
+  "private": true,
+  "scripts": { "deploy": "wrangler deploy" },
+  "devDependencies": { "wrangler": "^3" }
+}
